@@ -1,0 +1,33 @@
+# Ignore swap files
+*.swp
+
+# Ignore session files
+*.session.vim
+
+# Ignore undo files
+undo/
+
+# Ignore backup files
+backup/
+
+# Ignore temporary files
+*.tmp
+
+# Ignore cache directory
+cache/
+
+# Ignore plugin-specific files
+autoload/plug.vim
+
+# Ignore plugged directory (if using vim-plug)
+plugged/
+
+# Ignore coc.nvim extension files
+coc/extensions/
+
+# Ignore coc.nvim logs
+coc.nvim/log/
+
+# Ignore coc.nvim settings
+coc-settings.json
+
